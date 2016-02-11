@@ -1,18 +1,18 @@
 ![alt text](http://www.shield.com/Images/main-logo.png "Shield Firewall")
 
-# What is Shield Firewall ? #
+# What is Shield Firewall/Unified Threat Manager? #
 
 **Shield Firewall** is an **Open source Unified Threat Management solution** that targets the security needs for Home / SOHO / and SMB segments. The solution provides an Advanced State full Firewall integrated with L7 Application Control, Intrusion Prevention, SSLVPN, IPsec VPN, Web filtering, and User Authentication functionalities. The unified security policies management layer of Shield enables users to manage their security needs with ease!
 
 # Deployment Scenarios #
 
-## Home Segment ##
+### Home Segment ###
 
  - Ensuring the internet access in secured way
  - Filtering on unintended web content & applications. ( Example: Prevent users from visiting Malicious websites, Age restricted media contents, block the undesired content from Facebook, Phishing urls )
  - Single point of protection on Malware control
 
-## SOHO Setups ##
+### SOHO Setups ###
 
  - Application aware Stateful Firewall with Full-fledged NAT support
  - Enabling VPN access with easy to deploy true SSLVPN.
@@ -20,7 +20,7 @@
  - Easy to deploy Single Solutions for Firewalling/Malware Control/Content filtering/VPN/IP Management/Internet usage limiting.
  - Data leak Prevention.
 
-## SMB Deployments ##
+### SMB Deployments ###
 
  - Enhanced Productivity with controlling the undesired Internet usage.
  - Enabling secure connectivity between branch offices, Roaming users.
@@ -31,7 +31,7 @@
 
 # Features List #
 
-## Firewall ##
+### Firewall ###
 
  - State full Firewall with connections tracking capabilities
  - Dynamic/Static NAT, Port forwarding
@@ -47,13 +47,13 @@
  - Use of Policy Objects for Firewall/NAT Policies Configuration
  - Support for multiple firewall zones & zone based security policies
  
- ## IPS ##
+### IPS ###
  
  - Snort 2.9 based Intrusion Prevention enabling both Signature based Detection and Detailed Protocol Decoders.
  - Support for Custom Signatures with Intuitive signature configuration wizard
  - Supporting signatures from Emerging threats/Snort VRT(TALOS)
 
-## SSLVPN ##
+### SSLVPN ###
 
  - OpenVPN based SSLVPN Solution - Access Gateway Mode & P2P Mode Support
  - Locally managed SSLVPN Client Profiles
@@ -66,7 +66,7 @@
  - Support for Mobile VPN Clients
  - Easy to use VPN User Profiles/P2P Policies Configuration. 
 
-## IPSec ##
+### IPSec ###
 
  - Tunnel/Transport Mode
  - IKE Exchange - Main/Aggressive/Base mode
@@ -79,7 +79,7 @@
  - Traffic Compression
  - Dead Peer Detection
 
-## Web Filtering ##
+### Web Filtering ###
 
  - Web filtering with Squid Proxy . Support for URLs/Regular expression-based Filtering
  - Category-based Filtering with URL Blacklist Freeware service
@@ -92,7 +92,7 @@
  - User Authentication
  - Localization Support for Web filtering Blocking Pages
 
-## Network ##
+### Network ###
 
  - DHCP
  - DNS
@@ -103,7 +103,7 @@
  - Multiple Firewall Zones/Port Mapping
  - PPPoE Support
 
-## Device Management ##
+### Device Management ###
 
  - WebUI accessible via SSL
  - NTP
@@ -114,7 +114,7 @@
  - Diagnostic Utilities
  - Certificates Management for Web Proxy/SSLVPN/IPSec Services
 
-## Reports ##
+### Reports ###
 
  - Log viewer for accessing Syslog logs/Security Alerts
  - Firewall Connections Monitoring
