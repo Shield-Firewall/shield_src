@@ -1,10 +1,10 @@
 ![alt text](http://www.shield.com/Images/main-logo.png "Shield Firewall")
 
-# What is Shield Firewall/Unified Threat Manager? #
+## What is Shield Firewall/Unified Threat Manager? ##
 
 **Shield Firewall** is an **Open source Unified Threat Management solution** that targets the security needs for Home / SOHO / and SMB segments. The solution provides an Advanced State full Firewall integrated with L7 Application Control, Intrusion Prevention, SSLVPN, IPsec VPN, Web filtering, and User Authentication functionalities. The unified security policies management layer of Shield enables users to manage their security needs with ease!
 
-# Deployment Scenarios #
+## Deployment Scenarios ##
 
 ### Home Segment ###
 
@@ -29,7 +29,7 @@
  - Policy objects based easy to manage unified firewall policies.
  - Secured Cloud Access.
 
-# Features List #
+## Features List ##
 
 ### Firewall ###
 
@@ -91,6 +91,7 @@
  - SSL Control
  - User Authentication
  - Localization Support for Web filtering Blocking Pages
+ - Captive Portal
 
 ### Network ###
 
@@ -124,7 +125,7 @@
  - Connections Monitoring/IPS Alerts
  - Web filtering Reports
 
-# Major Modules #
+## Major Modules ##
  -  **Linux Netfilters/IPTables**
  -  **Conntrack tools**
  -  **Snort**
